@@ -176,15 +176,11 @@ could be used to identify them. Create a plan for secure footage and
 materials storage, meetings and communications to prevent an outsider
 from determining the identity of your interviewee.
 
-``` [IMAGE Filming Identity.ai] ``` ``` [CAPTIONS: Silhouette; FilmHands Only; Blur in Edit] ```
+``` [IMAGE Filming Identity.ai] ``` ``` [CAPTIONS: Silhouette; Film Hands Only; Blur in Edit] ```
 
 #### What Else About the Interviewee Needs to Stay Confidential?
 #### 
-Ask your interviewee where the interview can most safely be conducted.
-Make your presence as discreet as possible before, during and after
-filming to avoid inquiries that may expose your project or your
-interviewee. Make appropriate arrangements for your interviewee’s and
-your own safe travel to and from the interview location.
+Ensure understanding by all involved parties (interviewee, camera person, interviewer, focal point, allies) on what can and cannot be shared publicly about the interviewee and project. Ensure that any information collected about the interviewee, including real names, locations, origins, occupations, family information, health information (for example, HIV status)and other personal information stay confidential. 
 
 ####Where is the Safest Location for the Interview?
 ####
