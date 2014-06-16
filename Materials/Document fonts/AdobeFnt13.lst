@@ -1,0 +1,357 @@
+%!Adobe-FontList 1.13
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue
+FamilyName:Helvetica Neue
+StyleName:Regular
+MenuName:Helvetica Neue
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:\HelveticaNeue.ttc
+TTCOffset:68
+DataFormat:sfntData
+FileLength:1395352
+FileModTime:1247708620
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-Bold
+FamilyName:Helvetica Neue
+StyleName:Bold
+MenuName:Helvetica Neue
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue Bold
+FamilyNameNative:
+StyleNameNative:Bold
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:\HelveticaNeue.ttc
+TTCOffset:368
+DataFormat:sfntData
+FileLength:1395352
+FileModTime:1247708620
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-Italic
+FamilyName:Helvetica Neue
+StyleName:Italic
+MenuName:Helvetica Neue
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Helvetica Neue Italic
+FamilyNameNative:
+StyleNameNative:Italic
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:\HelveticaNeue.ttc
+TTCOffset:668
+DataFormat:sfntData
+FileLength:1395352
+FileModTime:1247708620
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-BoldItalic
+FamilyName:Helvetica Neue
+StyleName:Bold Italic
+MenuName:Helvetica Neue
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Helvetica Neue Bold Italic
+FamilyNameNative:
+StyleNameNative:Bold Italic
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:\HelveticaNeue.ttc
+TTCOffset:968
+DataFormat:sfntData
+FileLength:1395352
+FileModTime:1247708620
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-Light
+FamilyName:Helvetica Neue
+StyleName:Light
+MenuName:Helvetica Neue
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue Light
+FamilyNameNative:
+StyleNameNative:Light
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:\HelveticaNeue.ttc
+TTCOffset:1268
+DataFormat:sfntData
+FileLength:1395352
+FileModTime:1247708620
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-LightItalic
+FamilyName:Helvetica Neue
+StyleName:Light Italic
+MenuName:Helvetica Neue
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:Helvetica Neue Light Italic
+FamilyNameNative:
+StyleNameNative:Light Italic
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:\HelveticaNeue.ttc
+TTCOffset:1568
+DataFormat:sfntData
+FileLength:1395352
+FileModTime:1247708620
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-UltraLight
+FamilyName:Helvetica Neue
+StyleName:UltraLight
+MenuName:Helvetica Neue
+StyleBits:0
+WeightClass:100
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue UltraLight
+FamilyNameNative:
+StyleNameNative:UltraLight
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:\HelveticaNeue.ttc
+TTCOffset:1868
+DataFormat:sfntData
+FileLength:1395352
+FileModTime:1247708620
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-UltraLightItalic
+FamilyName:Helvetica Neue
+StyleName:UltraLight Italic
+MenuName:Helvetica Neue
+StyleBits:1
+WeightClass:100
+WidthClass:5
+AngleClass:1
+FullName:Helvetica Neue UltraLight Italic
+FamilyNameNative:
+StyleNameNative:UltraLight Italic
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:\HelveticaNeue.ttc
+TTCOffset:2168
+DataFormat:sfntData
+FileLength:1395352
+FileModTime:1247708620
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-CondensedBlack
+FamilyName:Helvetica Neue
+StyleName:Condensed Black
+MenuName:Helvetica Neue
+StyleBits:2
+WeightClass:900
+WidthClass:3
+AngleClass:0
+FullName:Helvetica Neue Condensed Black
+FamilyNameNative:
+StyleNameNative:Condensed Black
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:\HelveticaNeue.ttc
+TTCOffset:2468
+DataFormat:sfntData
+FileLength:1395352
+FileModTime:1247708620
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-CondensedBold
+FamilyName:Helvetica Neue
+StyleName:Condensed Bold
+MenuName:Helvetica Neue
+StyleBits:2
+WeightClass:700
+WidthClass:3
+AngleClass:0
+FullName:Helvetica Neue Condensed Bold
+FamilyNameNative:
+StyleNameNative:Condensed Bold
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:\HelveticaNeue.ttc
+TTCOffset:2768
+DataFormat:sfntData
+FileLength:1395352
+FileModTime:1247708620
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeue-Medium
+FamilyName:Helvetica Neue
+StyleName:Medium
+MenuName:Helvetica Neue
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue Medium
+WritingScript:Roman
+OutlineFileName:\HelveticaNeue.ttc
+TTCOffset:3068
+DataFormat:sfntData
+FileLength:1395352
+FileModTime:1247708620
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TrendSlabOne
+FamilyName:Trend Slab
+StyleName:One
+MenuName:Trend Slab One
+StyleBits:0
+WeightClass:200
+WidthClass:5
+AngleClass:0
+FullName:Trend Slab One
+WritingScript:Roman
+OutlineFileName:\Latinotype - TrendSlabOne.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27928
+FileModTime:1359644982
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:231312
+FileModTime:1281552682
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Populaire
+FamilyName:Populaire
+StyleName:Regular
+MenuName:Populaire
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Populaire
+WritingScript:Roman
+OutlineFileName:\PintassilgoPrints - Populaire.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:217708
+FileModTime:1359644982
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:StrangeloveText
+FamilyName:Strangelove Text
+StyleName:Regular
+MenuName:Strangelove Text
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Strangelove Text
+WritingScript:Roman
+OutlineFileName:\strangelove-text.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:23920
+FileModTime:1310469447
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Veneer
+FamilyName:Veneer
+StyleName:Regular
+MenuName:Veneer
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Veneer
+WritingScript:Roman
+OutlineFileName:\Yellow Design Studio - Veneer.ttf
+DataFormat:sfntData
+FileLength:944060
+FileModTime:1346420718
+%EndFont
+
